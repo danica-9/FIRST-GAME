@@ -1,0 +1,1 @@
+SPACE = pygame.transform.scale(pygame.image.load (os.path.join('Assets', 'space.GIF')),(WIDTH, HEIGHT))
